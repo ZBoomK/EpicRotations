@@ -1,0 +1,36 @@
+
+These are the commands that can be used with the Augmentation Profile **Replace xxxxx with the first 5 letters of Aimsharp Addon Name**.
+- To save cooldowns On/Off by deffault off
+/xxxxx SaveCooldowns
+- To activate out of combat dps by deffault off
+/xxxxx OOC
+- To queue Renewing Blaze @mouseover on next GCD
+/xxxxx RenewingBlaze
+- To Rescue @mouseover require 2nd click to fly to
+/xxxxx Rescue
+- To queue Source of Magic @mousever on next GCD
+/xxxxx SourceOfMagic
+- To queue Landslide @cursor on next GCD
+/xxxxx Landslide
+- To queue Expunge @mouseover on next GCD
+/xxxxx Expunge
+- To queue Cauterizing @mouseover on next GCD
+/xxxxx Cauterizing
+- To queue Time Skip
+/xxxxx TimeSkip
+- To queue Tail Swipe
+/xxxxx TailSwipe
+- To queue Wing Buffet
+/xxxxx WingBuffet
+- To queue Quell
+/xxxxx Quell
+- To queue Opressing Roar
+/xxxxx OpressingRoar
+- To queue Breath of Eons @cursor
+/xxxxx BreathOfEons
+- To Hold Automatic usage Breath of Eons if selected in configure
+/xxxxx HoldEons
+- To Hold auto interupts
+/xxxxx HoldInterrupt
+- To hold auto dispel
+/xxxxx HoldDispel
