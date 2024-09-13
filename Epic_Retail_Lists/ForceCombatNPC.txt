@@ -3,3 +3,6 @@ Training Dummy
 Cleave Training Dummy
 Animated Duelist
 Boulderfist
+PvP Training Dummy
+Crystalmaw
+Dungeoneer's Training Dummy
