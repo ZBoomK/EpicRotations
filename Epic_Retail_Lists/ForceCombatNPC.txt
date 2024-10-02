@@ -5,3 +5,6 @@ Animated Duelist
 Boulderfist
 Faithful Worshiper
 Kyrioss
+Void Emissary
+Irontide Waveshapers
+Ashvane Commanders
