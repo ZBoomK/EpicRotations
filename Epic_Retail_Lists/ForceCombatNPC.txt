@@ -3,8 +3,10 @@ Training Dummy
 Cleave Training Dummy
 Animated Duelist
 Boulderfist
-Faithful Worshiper
-Kyrioss
 Void Emissary
+Devoted Worshipper
+Faithful Worshiper
+Faithful Worshipper
+Kyrioss
 Irontide Waveshapers
 Ashvane Commanders
