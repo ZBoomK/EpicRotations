@@ -5,11 +5,6 @@ Animated Duelist
 Boulderfist
 Void Emissary
 Devoted Worshipper
-Faithful Worshiper
-Faithful Worshipper
-Kyrioss
-Irontide Waveshapers
-Ashvane Commanders
 Twilight Brute 
 Twilight Overseer
 Molten Giant
@@ -18,8 +13,7 @@ Curseheart Invader
 Earth Infused Golem
 Void Bound Despoiler
 Void Touches Elemental
-Highlord's Nemesis Trainer
-Cursedheart Invader
+Ashvane Commander
 Big M.O.M.M.A.
 Dynamite Mine Cart
 Spreader Hatchery
