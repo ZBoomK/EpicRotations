@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveData>
+  <wowPath>C:\Program Files (x86)\World of Warcraft</wowPath>
+  <addonName>SmallAddonWOW</addonName>
+  <rotationName>Retail\Epic_PvE_DemonHunter_Vengeance</rotationName>
+  <activePlugins />
+  <settings>
+    <Group name="Retail\Epic_PvE_DemonHunter_Vengeance">
+      <Setting>
+        <settingName>Game Client Language</settingName>
+        <settingType>DropDown</settingType>
+        <minValue>0</minValue>
+        <maxValue>0</maxValue>
+        <currentValue>0</currentValue>
+        <boxChecked>false</boxChecked>
+        <currentString>English</currentString>
+        <dropDownList>
+          <Item>English</Item>
+          <Item>Deutsch</Item>
+          <Item>Español</Item>
+          <Item>Français</Item>
+          <Item>Italiano</Item>
+          <Item>Português Brasileiro</Item>
+          <Item>Русский</Item>
+          <Item>한국어</Item>
+          <Item>简体中文</Item>
+        </dropDownList>
+      </Setting>
+      <Setting>
+        <settingName>Race:</settingName>
+        <settingType>DropDown</settingType>
+        <minValue>0</minValue>
+        <maxValue>0</maxValue>
+        <currentValue>0</currentValue>
+        <boxChecked>false</boxChecked>
+        <currentString>orc</currentString>
+        <dropDownList>
+          <Item>human</Item>
+          <Item>earthen</Item>
+          <Item>dwarf</Item>
+          <Item>nightelf</Item>
+          <Item>gnome</Item>
+          <Item>draenei</Item>
+          <Item>pandaren</Item>
+          <Item>orc</Item>
+          <Item>scourge</Item>
+          <Item>tauren</Item>
+          <Item>troll</Item>
+          <Item>bloodelf</Item>
+          <Item>goblin</Item>
+          <Item>worgen</Item>
+          <Item>voidelf</Item>
+          <Item>lightforgeddraenei</Item>
+          <Item>highmountaintauren</Item>
+          <Item>nightborne</Item>
+          <Item>zandalaritroll</Item>
+          <Item>magharorc</Item>
+          <Item>kultiran</Item>
+          <Item>darkirondwarf</Item>
+          <Item>vulpera</Item>
+          <Item>mechagnome</Item>
+        </dropDownList>
+      </Setting>
+      <Setting>
+        <settingName>Latency: </settingName>
+        <settingType>Slider</settingType>
+        <minValue>0</minValue>
+        <maxValue>1000</maxValue>
+        <currentValue>20</currentValue>
+        <boxChecked>false</boxChecked>
+        <currentString></currentString>
+        <dropDownList />
+      </Setting>
+      <Setting>
+        <settingName>Quick Delay: </settingName>
+        <settingType>Slider</settingType>
+        <minValue>50</minValue>
+        <maxValue>1000</maxValue>
+        <currentValue>50</currentValue>
+        <boxChecked>false</boxChecked>
+        <currentString></currentString>
+        <dropDownList />
+      </Setting>
+      <Setting>
+        <settingName>Slow Delay: </settingName>
+        <settingType>Slider</settingType>
+        <minValue>50</minValue>
+        <maxValue>1000</maxValue>
+        <currentValue>100</currentValue>
+        <boxChecked>false</boxChecked>
+        <currentString></currentString>
+        <dropDownList />
+      </Setting>
+      <Setting>
+        <settingName>Use Debug:</settingName>
+        <settingType>CheckBox</settingType>
+        <minValue>0</minValue>
+        <maxValue>0</maxValue>
+        <currentValue>0</currentValue>
+        <boxChecked>false</boxChecked>
+        <currentString></currentString>
+        <dropDownList />
+      </Setting>
+    </Group>
+  </settings>
+</SaveData>
