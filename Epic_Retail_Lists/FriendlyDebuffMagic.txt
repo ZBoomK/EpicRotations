@@ -12,6 +12,7 @@ Entropic Bolt
 Etheral Shackles
 Frost Nova
 Haunting Screech
+Devouring Rift
 Holy Fire
 Hulking Fragment
 Ice Prison

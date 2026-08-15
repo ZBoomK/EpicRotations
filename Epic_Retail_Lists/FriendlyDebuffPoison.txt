@@ -5,6 +5,7 @@ Plague Strike
 Poison Blades
 Poison Spray
 Poisonous Claws
+Devouring Rift
 Spore Infection
 Toxic Barb
 Toxic Burst
