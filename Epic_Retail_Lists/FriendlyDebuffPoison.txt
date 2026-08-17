@@ -18,3 +18,34 @@ Venomous Sting
 Venomous Spit
 Vile Bite
 Devouring Rift
+Corrosive Sludge
+Fel Poison
+Lasher Toxin
+Plague Strike
+Poison Blades
+Poison Spray
+Poisonous Claws
+Devouring Rift
+Spore Infection
+Toxic Barb
+Toxic Burst
+Toxic Cloud
+Toxic Residue
+Venom Slash
+Venomous Bite
+Venomous Spear
+Venomous Sting
+Venomous Spit
+Vile Bite
+Devouring Rift
+Envenom
+Mass Envenom
+Toxic Spores
+Heartstop Poison
+Corrosive Essence
+Mind Numbing Poison
+Poisoned Cheap Shot
+Cytotoxin
+Poison Spit
+Lingering Fluid
+Putrid Seekers

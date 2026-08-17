@@ -13,3 +13,21 @@ Temporal Curse
 Void Corruption
 Wailing Hex
 Devouring Rift
+Arcane Curse
+Banshee's Curse
+Cavern Hex
+Creeping Violet
+Curse of Darkness
+Curse of the Sunwell
+Curse of the Talon
+Curse of Torment
+Frostbite Curse
+Hex
+Devouring Rift
+Temporal Curse
+Void Corruption
+Wailing Hex
+Devouring Rift
+Insatiable Hunger
+Curse of Doom
+Addle Mind
